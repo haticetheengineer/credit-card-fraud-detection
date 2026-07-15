@@ -89,7 +89,7 @@ credit-card-fraud-detection-ml/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/credit-card-fraud-detection-ml.git
+git clone https://github.com/haticetheengineer/credit-card-fraud-detection-ml.git
 ```
 
 Install the required packages
