@@ -21,7 +21,7 @@ The study focuses on comparing different models using commonly accepted evaluati
   * 0 → Legitimate Transaction
   * 1 → Fraudulent Transaction
 
-> Due to licensing restrictions, the dataset is **not included** in this repository. Please download it from its original source.
+> Due to licensing restrictions, the dataset is **not included** in this repository. Please download it from its original source.(https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023)
 
 ---
 
